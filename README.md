@@ -1,0 +1,4 @@
+- initalize the function to get computer choice.
+- since don't know arrays yet, use Math.random() to get the computer choice.
+- get 3 random numbers from math random and associate each number with the 3 choices we have using switch statements.
+-
